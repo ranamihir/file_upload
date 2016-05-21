@@ -1,0 +1,10 @@
+{
+    "name": "superheroApp",
+    "main": "server.js",
+    "dependencies": {
+     "angular-filepicker": "^1.1.4",
+     "bootstrap": "^3.3.6",
+     "angular": "^1.5.2",
+     "angular-route": "^1.5.2"
+    }
+}
